@@ -1,1 +1,1 @@
-# chess_game_python
+# chess game with python
